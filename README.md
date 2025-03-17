@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!ENDPOINTS]
 > ESTO ES UNA NOTA
 
 
