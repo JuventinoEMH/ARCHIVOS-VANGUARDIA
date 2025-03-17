@@ -1,0 +1,2 @@
+> [!NOTE]
+> ESTO ES UNA NOTA
